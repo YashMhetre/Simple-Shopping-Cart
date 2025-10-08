@@ -144,3 +144,6 @@ The backend will run on **http://localhost:8080**
 
 ### CORS Configuration
 The backend is configured to accept requests from the frontend running on port 3000.
+
+### After you have downloaded my project and want to check it
+In Frontend, while entering the CVV number in case of filling the form for buying the product, please enter a future date like - 12 December 2026 i.e 12/26
